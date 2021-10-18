@@ -2,7 +2,8 @@
 using namespace std;
 int main(){
 
-printf("HELLO gdfgdfgdfgdfgdfxWORLD AND GITHUB");
+printf("HELLOWORLD AND GITHUB");
+printf("HELLOWORLD AND GITHUB");
 
 
 
