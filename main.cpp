@@ -1,11 +1,6 @@
-#include <iostream>
+include <iostream>
 using namespace std;
 int main(){
-
-printf("HELLOWORLD AND GITHUB");
-
-
-
-
+printf("Hello World")
 return 0;
 }
